@@ -1,5 +1,8 @@
 export const theme = {
-  colorMain: '#404E5C',
+  colorMain: '#4F6272',
   colorWhite: '#fff',
   colorBlack: '#000',
+  colorGrey: 'grey',
+  colorLightGrey: '#eee',
+  colorRed: '#ee6055',
 };
